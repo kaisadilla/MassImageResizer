@@ -1,0 +1,10 @@
+E:\Projects\repos\Visual Studio\MassImageResizer\MassImageResizer\bin\Debug\MassImageResizer.exe.config
+E:\Projects\repos\Visual Studio\MassImageResizer\MassImageResizer\bin\Debug\MassImageResizer.exe
+E:\Projects\repos\Visual Studio\MassImageResizer\MassImageResizer\bin\Debug\MassImageResizer.pdb
+E:\Projects\repos\Visual Studio\MassImageResizer\MassImageResizer\obj\Debug\MassImageResizer.csprojAssemblyReference.cache
+E:\Projects\repos\Visual Studio\MassImageResizer\MassImageResizer\obj\Debug\MassImageResizer.Form1.resources
+E:\Projects\repos\Visual Studio\MassImageResizer\MassImageResizer\obj\Debug\MassImageResizer.Properties.Resources.resources
+E:\Projects\repos\Visual Studio\MassImageResizer\MassImageResizer\obj\Debug\MassImageResizer.csproj.GenerateResource.cache
+E:\Projects\repos\Visual Studio\MassImageResizer\MassImageResizer\obj\Debug\MassImageResizer.csproj.CoreCompileInputs.cache
+E:\Projects\repos\Visual Studio\MassImageResizer\MassImageResizer\obj\Debug\MassImageResizer.exe
+E:\Projects\repos\Visual Studio\MassImageResizer\MassImageResizer\obj\Debug\MassImageResizer.pdb
